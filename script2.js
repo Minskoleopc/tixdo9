@@ -1,2 +1,2 @@
 console.log("I am from 2 file")
-console.log("conflict line")
+console.log("I am from D user")
